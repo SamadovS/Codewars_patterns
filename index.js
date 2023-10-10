@@ -1,1 +1,1 @@
-// Pattern 3
+console.log("You solved this pattern! Bravo ))");
